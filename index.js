@@ -1,3 +1,5 @@
+// This repo is built by play.js with mobile device
+
 let primes = (function*(){
   yield 2;
   yield 3;
